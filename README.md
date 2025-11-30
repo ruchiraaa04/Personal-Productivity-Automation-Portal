@@ -93,13 +93,9 @@ streamlit run app.py
 
 ## 📸 **Screenshots**
 
+<img src="https://github.com/ruchiraaa04/Personal-Productivity-Automation-Portal/blob/main/focusflow.png">
 
-
-```
-![Dashboard](images/dashboard.png)
-![Timer](images/timer.png)
-![Tasks](images/tasks.png)
-```
+<img src="https://github.com/ruchiraaa04/Personal-Productivity-Automation-Portal/blob/main/focusflow2.png">
 
 ---
 
