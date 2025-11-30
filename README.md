@@ -49,7 +49,6 @@ This project was built as a practical tool to improve daily efficiency while sho
 * **Python 3.x**
 * **Streamlit**
 * JSON (Local Storage)
-* PyPDF2 (optional for future tools)
 
 ---
 
