@@ -1,0 +1,14 @@
+[
+    {
+        "title": "Study 30 min",
+        "priority": "Medium",
+        "date": "2025-11-30",
+        "status": "Completed"
+    },
+    {
+        "title": "Laundry",
+        "priority": "Low",
+        "date": "2025-11-30",
+        "status": "Completed"
+    }
+]
